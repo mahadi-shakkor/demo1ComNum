@@ -5,34 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b084ba2-3b24-4036-af93-14bab85f05eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo1comnum/ComView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo1comnum/DemoCl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo1comnum/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo1comnum/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo1comnum/_COM_NUM_OPERATION.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/oop/mahadi/demo1comnum/ComView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/oop/mahadi/demo1comnum/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09-06-24/target/classes/mainpkg/demo/Adult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09-06-24/target/classes/mainpkg/demo/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09-06-24/target/classes/mainpkg/demo/CR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09-06-24/target/classes/mainpkg/demo/Children.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09-06-24/target/classes/mainpkg/demo/FXML.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09-06-24/target/classes/mainpkg/demo/HelloApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09-06-24/target/classes/mainpkg/demo/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09-06-24/target/classes/mainpkg/demo/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09-06-24/target/classes/mainpkg/demo/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../09-06-24/target/classes/module-info.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo1comnum/DateValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo1comnum/StringValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo1comnum/ComView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oop/mahadi/demo1comnum/ComView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/oop/mahadi/demo1comnum/ComView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/oop/mahadi/demo1comnum/ComView.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +34,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2iPK8DzFhju2BR32XmQv9wGE2JY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -68,15 +45,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.HelloApplication.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.oop.mahadi.demo1comnum" />
